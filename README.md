@@ -1,4 +1,4 @@
-### Hi there 👋
+### その辺の高専生です
 
 <!--
 **i18hiromasa/i18hiromasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
